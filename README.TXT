@@ -12,3 +12,7 @@ It is discussed in chapter 3.
 To use this project, create an instance of class NumberDisplay. Then inspect this 
 instance and leave the inspector window open. With the inspector window open, 
 call the object's methods, such as increment and setValue.
+
+*****Answers*****:
+2.The class diagram can change when you add,remove or compile a class.
+3.The object diagram can change when you add or remove an object in the object bench.
