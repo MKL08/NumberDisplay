@@ -18,4 +18,4 @@ call the object's methods, such as increment and setValue.
 3.The object diagram can change when you add or remove an object in the object bench.
 4.private Instructor tutor;
 6.When the number of the minutes rollled over back to zero. Then you should increment on the hours.
-8.They both said errors after I implemented the methods.
+8.both set values did change.
