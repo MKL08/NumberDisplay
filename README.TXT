@@ -19,3 +19,4 @@ call the object's methods, such as increment and setValue.
 4.private Instructor tutor;
 6.When the number of the minutes rollled over back to zero. Then you should increment on the hours.
 8.both set values did change.
+11.the error said: ".class expected". To fix it you just need to delete "int" from the line of code.
