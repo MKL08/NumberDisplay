@@ -16,3 +16,4 @@ call the object's methods, such as increment and setValue.
 *****Answers*****:
 2.The class diagram can change when you add,remove or compile a class.
 3.The object diagram can change when you add or remove an object in the object bench.
+4.private Instructor tutor;
