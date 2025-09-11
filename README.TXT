@@ -22,3 +22,5 @@ call the object's methods, such as increment and setValue.
 11.the error said: ".class expected". To fix it you just need to delete "int" from the line of code.
 12.the only valid parameter value are positive number only. Zero not included.
 16.a && b ||!a && !b
+17. !a && b||a && !b
+18.No it's only set to a two digit number.
