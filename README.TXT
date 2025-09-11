@@ -24,3 +24,4 @@ call the object's methods, such as increment and setValue.
 16.a && b ||!a && !b
 17. !a && b||a && !b
 18.No it's only set to a two digit number.
+19.Yes.
